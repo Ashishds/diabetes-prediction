@@ -1,1 +1,1 @@
-# diabetes-prediction
+# Prima-Indian-Diabetes-prediction
